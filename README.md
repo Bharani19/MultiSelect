@@ -1,21 +1,19 @@
-Details:
 
-This project consists of the following files:
 
-index.html
-index.js
-App.js
+###Steps to run the Project###:
 
-package.json (to install all the dependencies)
+#To clone the repository
 
-Steps to run the Project:
+git clone https://github.com/Bharani19/task.git
 
-#First install all the dependencies required to run the project.
+#Change the current directory to project directory
+
+cd my-app
+
+#To install all the dependencies #
 
 npm install
 
 #To run the project
 
 npm start
- 
-
