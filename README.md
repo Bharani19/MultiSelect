@@ -4,7 +4,7 @@
 
 #To clone the repository
 
-git clone https://github.com/Bharani19/task.git
+git clone https://github.com/Bharani19/MultiSelect.git
 
 #Change the current directory to project directory
 
